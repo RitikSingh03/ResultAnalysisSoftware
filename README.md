@@ -26,15 +26,6 @@ The **Result Analysis Software** is a desktop application developed to streamlin
 
 
 
-## Installation and Setup
-
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/result-analysis-software.git
-cd result-analysis-software
-```
-
 ### Project Setup
 1. Add **PDFBox**, **POI**, and **JFreeChart** to your project’s dependencies (via Maven, Gradle, or manually).
 2. Configure the project in your preferred Java IDE (e.g., IntelliJ, Eclipse).
